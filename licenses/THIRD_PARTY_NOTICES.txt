@@ -1,0 +1,12 @@
+PersonCutout distributes the following third-party components:
+
+- MediaPipe Selfie Segmenter model: Apache License 2.0
+  Copyright 2021 Google LLC
+  Source: https://storage.googleapis.com/mediapipe-models/image_segmenter/selfie_segmenter/float16/1/selfie_segmenter.tflite
+  Model card: https://huggingface.co/litert-community/MediaPipe-ImageSegmenter-Selfie-Square
+
+- MediaPipe, OpenCV, and Qt for Python (PySide6) are installed as runtime
+  dependencies. Their respective licenses and notices are provided by their
+  upstream distributions.
+
+The Apache License 2.0 text is included in APACHE-2.0.txt.

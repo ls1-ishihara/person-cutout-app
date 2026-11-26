@@ -1,0 +1,4 @@
+mediapipe==1.2.3
+opencv-contrib-python==4.14.0.94
+PySide6==6.10.3
+pyinstaller==6.22.3
